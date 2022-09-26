@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fav"
+        android:icon="@drawable/favorite"
+        android:title="Fav" />
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/music"
+        android:title="music" />
+    <item
+        android:id="@+id/place"
+        android:icon="@drawable/location"
+        android:title="place" />
+    <item
+        android:id="@+id/News"
+        android:icon="@drawable/article"
+        android:title="News" />
+</menu>
