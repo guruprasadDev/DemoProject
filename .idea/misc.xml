@@ -4,11 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/bottom_nav_colors.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/favorite.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/item_select_color.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.30012359619140627" />
         <entry key="app/src/main/res/layout/activity_navigate_one_fragment_two_another_fragment.xml" value="0.17028985507246377" />
-        <entry key="app/src/main/res/layout/activity_navigation_fragment.xml" value="0.2208496093750001" />
+        <entry key="app/src/main/res/layout/activity_navigation_fragment.xml" value="0.12184873949579832" />
         <entry key="app/src/main/res/layout/content_navigate_one_fragment_two_another_fragment.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/fragment_1.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.17028985507246377" />
         <entry key="app/src/main/res/layout/fragment_four.xml" value="0.13405797101449277" />
         <entry key="app/src/main/res/layout/fragment_one.xml" value="0.15767634854771784" />

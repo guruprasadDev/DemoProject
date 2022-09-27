@@ -5,8 +5,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:layout_height="match_parent"
-    tools:context=".fragments.FragmentFour">
-
+    tools:context=".fragments.Fragment1">
 
     <TextView
         android:layout_width="match_parent"
@@ -16,6 +15,6 @@
         android:layout_margin="10dp"
         android:textAlignment="center"
         android:textColor="@color/black"
-        android:text="fourth Fragment"/>
+        android:text="One Fragment"/>
 
 </LinearLayout>

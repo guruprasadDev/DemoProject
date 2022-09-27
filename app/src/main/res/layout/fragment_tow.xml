@@ -17,17 +17,5 @@
         android:textColor="@color/black"
         android:text="Second Fragment"/>
 
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/btnNavigateFragmentOne"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="20dp"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="10dp"
-        android:text="Navigate Fragment One"
-        android:textAllCaps="false"/>
-
-
-
 
 </LinearLayout>

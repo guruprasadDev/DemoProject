@@ -20,7 +20,5 @@ class NavigationFragment : AppCompatActivity() {
         val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottomNavigation)
         setupWithNavController(bottomNavigationView,navController)
 
-
-
     }
 }
